@@ -1,6 +1,17 @@
 - 👋 Hi, I’m @shafai-pouya
 - 👀 I’m interested in programming and math
-- 🌱 I’m currently learning AI and python and web programing (total: 13 programming language)
+- 🌱 I’m currently learning AI and python and web programing (total: 11 programming language):
+    1. python
+	2. html
+    3. css
+    4. javascript
+    5. php
+    6. my sql
+    7. batch script
+    8. c#
+    9. wpf(with c#) 
+    10. c
+    11. c++
 - 💞️ I’m looking to collaborate on `codingame.com`
 - 📫 you can reach me by:
 	- `shafaipoya10115@gmail.com`
